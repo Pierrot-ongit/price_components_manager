@@ -1,0 +1,11 @@
+name = Price Components Manager
+description = Custom options for the price components . Replace and Improve the commerce_price_extra_original module.
+core = 7.x
+dependencies[] = commerce
+dependencies[] = commerce_price
+dependencies[] = commerce_order
+dependencies[] = commerce_ui
+dependencies[] = commerce_checkout
+dependencies[] = commerce_line_item
+
+package = Commerce (Contrib)
